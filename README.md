@@ -4,13 +4,13 @@ EvalNaut is a dual-model evaluation platform designed to facilitate A/B testing,
 
 The system includes:
 
-A progressive conversation flow
+  * A progressive conversation flow
 
-Detailed failure categorization
+  * Detailed failure categorization
 
-A Nudge mechanism to refine the Strong model’s behavior
+  * A Nudge mechanism to refine the Strong model’s behavior
 
-Automated logging of responses, comparisons, failure types, comments, and user ratings
+  * Automated logging of responses, comparisons, failure types, comments, and user ratings
 
 EvalNaut is built as part of an RLHF (Reinforcement Learning with Human Feedback) workflow, allowing the creation of structured datasets for improving model alignment and robustness.
 
