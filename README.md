@@ -1,4 +1,3 @@
-````markdown
 # EvalNaut - AI Model Evaluation Platform
 
 EvalNaut is a dual-model evaluation platform designed to facilitate A/B testing, comparison, and data collection for Large Language Models. It generates parallel responses from a Weak model (GPT-3.5) and a Strong model (GPT-4.1), enabling side-by-side evaluation.
@@ -124,5 +123,3 @@ To run this project locally, you will need two terminal windows open: one for th
 4.  **Evaluation:** Expand the evaluation form to rate the models and tag any failures.
 5.  [cite\_start]**Save:** At the end of the session, the conversation and your evaluations are automatically logged to `backend/conversations_log.csv`. [cite: 1]
 
-```
-```
