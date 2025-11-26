@@ -1,0 +1,52 @@
+# -----------------------
+# Python / Backend
+# -----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+backend/venv/
+
+# Environment Variables (CRITICAL: Keeps API keys secure)
+.env
+.env.*
+backend/.env
+
+# Data Logs (Don't upload conversation data)
+*.csv
+backend/*.csv
+conversations_log.csv
+
+# -----------------------
+# Node / Frontend
+# -----------------------
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Production Build
+build/
+dist/
+frontend/build/
+
+# Frontend Environment Variables
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# -----------------------
+# IDEs & Operating System
+# -----------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
