@@ -121,5 +121,5 @@ To run this project locally, you will need two terminal windows open: one for th
       * The system generates two responses (Model A & Model B).
       * **Nudge:** If Model B fails, use the "Nudge" button to provide feedback and see if it corrects itself.
 4.  **Evaluation:** Expand the evaluation form to rate the models and tag any failures.
-5.  **Save:** At the end of the session, the conversation and your evaluations are automatically logged to `backend/conversations_log.csv`. [cite: 1]
+5.  **Save:** At the end of the session, the conversation and your evaluations are automatically logged to `backend/conversations_log.csv`.
 
